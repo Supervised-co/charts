@@ -1,57 +1,27 @@
-# wpai
-This is the official Supervised AI Chatbot plugin for WordPress.
+Custom Charts in Elementor - WordPress Plugin
 
-# Supervised AI Bots
+This is a WordPress plugin designed to seamlessly integrate a powerful custom charts feature into the popular Elementor page builder, making it easy to create visually appealing and informative charts right within your Elementor-built web pages.
 
-## Description
+Key Features
 
-The Supervised AI Bots plugin allows you to seamlessly integrate Supervised AI chatbots directly into your WordPress website, enabling interactive chatbot functionality for your visitors.
+Wide range of chart types: The plugin supports a diverse collection of chart types, including line, bar, pie, and more, giving you flexibility and versatility in displaying your data.
 
-## Features
+Simple and intuitive setup: Creating a chart is as easy as selecting your desired chart type, providing your data, and adjusting the settings to create the desired look and feel.
 
-- Add multiple Supervised AI chatbots to your WordPress site.
-- Customize the appearance and behavior of the chatbots.
-- Easy-to-use shortcode integration for displaying chatbots on pages and posts.
-- Simple administration interface for managing chatbot settings.
+Responsive and mobile-friendly: Designed to be responsive and adaptive, the charts will automatically adjust their size and layout to fit various screen sizes and devices.
 
-## Installation
+Effortless integration with Elementor: Compatible with the latest version of Elementor, the plugin can be seamlessly incorporated into your existing website, making your development process smoother and more efficient.
 
-1. Download the plugin zip file from the [Supervised AI Bots WordPress Plugin Page](https://supervised.co/).
-2. Upload the plugin files to the `/wp-content/plugins/supervised-ai-bots` directory, or install the plugin through the WordPress plugins screen directly.
-3. Activate the plugin through the 'Plugins' screen in WordPress.
-4. Visit the 'Supervised AI Bots' settings page to configure your chatbots and add them to your site.
+Getting Started
 
-## Usage
+Install and activate the Custom Charts in Elementor plugin through the Plugins page in your WordPress dashboard.
+Go to the Elementor page builder and create a new or modify an existing section.
+From the Elementor settings, select the "Custom Charts" widget.
+Choose your preferred chart type and provide your data, adjust settings as needed, and save the changes.
+Preview your webpage to see the chart in action.
+Requirements
 
-Once the plugin is activated and configured:
-
-1. Navigate to the 'Supervised AI Bots' settings page in the WordPress admin dashboard.
-2. Add the URLs of your Supervised AI chatbots, with one URL per line, in the provided textarea.
-3. Use the `[supervised_ai_bot]` shortcode with the `id` attribute to display a specific chatbot on your WordPress pages or posts.
-4. For real-world, use shortcodes like `[supervised_ai_bot id="1"]` Replace the id with the row number of the bot URL.
-
-## Screenshots
-
-Coming soon...
-
-## Frequently Asked Questions
-
-Coming soon...
-
-## Support
-
-For any support inquiries or assistance, please visit [Supervised AI Support](http://supervised.co/support).
-
-## License
-
-This plugin is licensed under the GNU General Public License v2 or later.
-
-## Credits
-
-- Developed by [Supervised AI](http://supervised.co).
-
-## Changelog
-
-### 1.0.0
-- Initial release of the Supervised AI Bots WordPress plugin.
-
+PHP 5.6 or higher
+WordPress 4.8 or later
+Elementor 2.0 or later
+Feel free to drop any questions, comments, or suggestions in the plugin's support forum, and we'll be happy to help you make the most of the Custom Charts in Elementor plugin. Enjoy creating stunning and engaging charts for your website!
